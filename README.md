@@ -1,4 +1,4 @@
-# Spending Tracker
+# Prism
 
 A serverless personal finance app for tracking spending: replacing my Excel workflow with a fast web UI, spending dashboards, and AI-powered receipt scanning.
 
